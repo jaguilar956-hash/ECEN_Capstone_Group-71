@@ -1,2 +1,1 @@
-# ECEN_Capstone_Group-71
-ECEN Capstone for 26-27
+This folder consists of the code for the VFD application for IOS/Android
